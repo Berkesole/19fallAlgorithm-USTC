@@ -1,11 +1,3 @@
-//
-//  main.cpp
-//  alg_1
-//
-//  Created by 芮轲 on 2019/11/8.
-//  Copyright © 2019 kerui. All rights reserved.
-//
-
 #include <iostream>
 #include <stdio.h>
 #include <math.h>
