@@ -199,7 +199,7 @@ int main(int argc, const char * argv[]) {
     int i = 0;
     memset(indptr, 0, sizeof(int)*(V+1));
     memset(indices, 0, sizeof(int)*E);
-    ifstream file("xxx");
+    ifstream file("xxx/facebook_combined.txt");
     while (!file.eof())
     {
         file >> a;
