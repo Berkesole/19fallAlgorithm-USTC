@@ -1,11 +1,3 @@
-//
-//  main.cpp
-//  alg_BFS
-//
-//  Created by 芮轲 on 2019/12/6.
-//  Copyright © 2019 kerui. All rights reserved.
-//
-
 #include <iostream>
 #include <fstream>
 #include <assert.h>
@@ -144,7 +136,7 @@ int main(int argc, const char * argv[]) {
     int i = 0;
     memset(indptr, 0, sizeof(int)*(V+1));
     memset(indices, 0, sizeof(int)*E);
-    ifstream file("xxx/facebook_combined.txt");
+    ifstream file("/*YOUR PATH*//facebook_combined.txt");
     while (!file.eof())
     {
         file >> a;
