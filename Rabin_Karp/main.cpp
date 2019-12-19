@@ -1,11 +1,3 @@
-//
-//  main.cpp
-//  alg_3_2
-//
-//  Created by 芮轲 on 2019/11/22.
-//  Copyright © 2019 kerui. All rights reserved.
-//
-
 #include <stdio.h>
 #include <math.h>
 #include <assert.h>
