@@ -1,9 +1,3 @@
-//
-//  main.cpp
-//  alg_3
-//
-//  Created by 芮轲 on 2019/11/20.
-//  Copyright © 2019 kerui. All rights reserved.
 /*1.求解两个字符串s1,s2的最长公共子序列。 s1，s2均是随机生成的字符(大、小写字母和数字，共62种不同字符)。
 n,m的规模分别为2^6,2^8 */
 
