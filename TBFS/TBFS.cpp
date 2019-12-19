@@ -1,11 +1,3 @@
-//
-//  main.cpp
-//  alg_TBFS
-//
-//  Created by 芮轲 on 2019/12/7.
-//  Copyright © 2019 kerui. All rights reserved.
-//
-
 #include <iostream>
 #include <fstream>
 #include <assert.h>
