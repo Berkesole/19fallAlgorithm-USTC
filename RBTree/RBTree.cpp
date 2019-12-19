@@ -1,11 +1,3 @@
-//
-//  main.cpp
-//  alg_4_RBtree
-//
-//  Created by 芮轲 on 2019/11/29.
-//  Copyright © 2019 kerui. All rights reserved.
-//
-
 #include <iostream>
 using namespace std;
 
