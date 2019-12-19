@@ -1,11 +1,3 @@
-//
-//  main.cpp
-//  alg_sch2_1
-//
-//  Created by 芮轲 on 2019/11/2.
-//  Copyright © 2019 kerui. All rights reserved.
-//
-
 #include <iostream>
 #include "stdio.h"
 #define inf 9999999
