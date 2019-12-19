@@ -1,11 +1,3 @@
-//
-//  main.cpp
-//  alg_sch2_2
-//
-//  Created by 芮轲 on 2019/11/2.
-//  Copyright © 2019 kerui. All rights reserved.
-//
-
 #include <iostream>
 #include "stdio.h"
 #include <fstream>
@@ -58,7 +50,7 @@ void FIND_DFS(int task,int Local_MIN){
 
 int main(int argc, const char * argv[])
 {
-    ifstream file("/Users/ruike/C_project/alg_sch2_2/alg_sch2_2/data.txt");
+    ifstream file("/*YOUR PATH*//data.txt");
     int i = 0;
     file >> n;
     file >> k;
